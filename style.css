@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(33, 55, 33);
+    font-family: 'Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding-bottom: 30px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+
+
+.container {}
